@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **a project. I'd love to partner up on anything.**
 
-- 👨‍💻 All of my projects are available at [https://jdpinkard.netlify.app/](https://jdpinkard.netlify.app/) .
+- 👨‍💻 All of my projects are available at [https://jdpinkard.netlify.app/](https://jdpinkard.netlify.app/).
 
 - 💬 Ask me about **react or one of my many projects.**
 
