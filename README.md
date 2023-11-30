@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react or one of my many projects.**
 
-- 📫 How to reach me **justin.d.pinkard@gmail.com**.
+- 📫 You can reach me at **justin.d.pinkard@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
