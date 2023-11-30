@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Justin Pinkard</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **stardust photography. It's a photography website for a friend.**
+- 🔭 I’m currently working on **Stardust Photography. It's a photography website for a friend.**
 
 - 🌱 I’m currently learning **next.js and tailwindcss**
 
-- 👯 I’m looking to collaborate on **an project. I'd love to partner up on anything.**
+- 👯 I’m looking to collaborate on **a project. I'd love to partner up on anything.**
 
 - 👨‍💻 All of my projects are available at [https://jdpinkard.netlify.app/](https://jdpinkard.netlify.app/)
 
