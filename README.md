@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **next.js and tailwindcss.**
 
-- 👯 I’m looking to collaborate on **a project. I'd love to partner up on anything.**
+- 👯 I’m looking to collaborate on **a project. I'd love to partner up on just about anything.**
 
 - 👨‍💻 All of my projects are available at [https://jdpinkard.netlify.app/](https://jdpinkard.netlify.app/).
 
