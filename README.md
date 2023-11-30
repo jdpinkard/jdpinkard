@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **Stardust Photography. It's a photography website for a friend.**
 
-- 🌱 I’m currently learning **next.js and tailwindcss**
+- 🌱 I’m currently learning **next.js and tailwindcss.**
 
 - 👯 I’m looking to collaborate on **a project. I'd love to partner up on anything.**
 
-- 👨‍💻 All of my projects are available at [https://jdpinkard.netlify.app/](https://jdpinkard.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jdpinkard.netlify.app/](https://jdpinkard.netlify.app/) .
 
-- 💬 Ask me about **react or one of my many projects**
+- 💬 Ask me about **react or one of my many projects.**
 
-- 📫 How to reach me **justin.d.pinkard@gmail.com**
+- 📫 How to reach me **justin.d.pinkard@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
